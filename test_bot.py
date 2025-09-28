@@ -12,3 +12,8 @@ def test_dummy2():
 def test_dummy2():
     assert True
 # added at 2025-09-28T15:03:04.320197
+
+def test_mul():
+    from bot import reply
+    assert isinstance(reply(), str)
+# added at 2025-09-28T15:12:18.193780
