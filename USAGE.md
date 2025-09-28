@@ -1,1 +1,6 @@
-# Usage examples
+
+# Руководство по использованию
+
+## Запуск бота
+```bash
+python3 bot.py

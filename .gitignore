@@ -1,0 +1,11 @@
+
+auto_commit.py
+git-activity.log
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+.pytype/
+.mypy_cache/
