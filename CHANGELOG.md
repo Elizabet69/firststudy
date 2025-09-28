@@ -10,3 +10,6 @@
 - Документация (README.md)
 - Файл USAGE.md
 - Файл NOTES.md
+
+## 2025-09-28
+- Minor update
